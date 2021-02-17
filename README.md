@@ -36,6 +36,8 @@ BSD
 
 Author Information
 ------------------
+LinkedIn: https://www.linkedin.cn/in/pritee-dharme-341a9a1b4
+
 
 An optional section for the role authors to include contact information, or a website (HTML is not allowed).
 
